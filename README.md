@@ -1,6 +1,6 @@
 # Top 100 universities in the world (QS Ranking) <br>
 
-### Top 100 universities in the world along with their scores, ratios and indicators <br>
+## Top 100 universities in the world along with their scores, ratios and indicators <br>
 
 **Context**
 
